@@ -1,13 +1,13 @@
 {
-  "heading": "Wo sind die größten landwirtschaftlichen Betriebe in der EU?",
-  "subheading": "Übersicht über den Anteil der Betriebe mit über 100 ha LF in der Europäischen Union im Jahr 2020",
+  "heading": "Wo befinden sich die größten landwirtschaftlichen Betriebe in der EU?",
+  "subheading": "Übersicht über den Anteil der landwirtschaftlichen Betriebe mit über 100 ha LF in der Europäischen Union im Jahr 2020",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "der Gesamtzahl der Betriebe mit einer LF von mehr als 100 ha",
+  "tooltip1": "der Gesamtzahl der landwirtschaftlichen Betriebe mit einer landwirtschaftlichen Nutzfläche von mehr als 100 ha",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
   "textNote": "Die Daten bilden alle bekannten Rechtsformen landwirtschaftlicher Betriebe ab",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

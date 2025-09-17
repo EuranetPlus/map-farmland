@@ -1,13 +1,13 @@
 {
   "heading": "Gdje su najveće farme u EU?",
-  "subheading": "Pregled udjela poljoprivrednih gospodarstava s preko 100 ha KPP u Europskoj uniji u 2020",
+  "subheading": "Pregled udjela poljoprivrednih gospodarstava s preko 100 ha UAA u Europskoj uniji u 2020. godini",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "od ukupnog broja poljoprivrednih gospodarstava s KPP-om većim od 100 ha",
+  "tooltip1": "ukupnog broja farmi s KPP većom od 100 ha",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
   "textNote": "Podaci prikazuju sve poznate pravne oblike poljoprivrednih gospodarstava",
-  "textDataAccess": "Pristupite podacima",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Hvor er de største landbrug i EU?",
-  "subheading": "Oversigt over andelen af bedrifter med over 100 ha UAA i Den Europæiske Union i 2020",
-  "legend1": "Ingen tilgængelig data",
-  "tooltip1": "af det samlede antal bedrifter med UAA større end 100 ha",
+  "subheading": "Oversigt over andelen af landbrug med over 100 ha ULA i Den Europæiske Union i 2020",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "af det samlede antal landbrug med et udnyttet landbrugsareal på over 100 ha",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Dataene viser alle kendte juridiske former for bedrifter",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=da",
-  "textCountryClick": "Klik for mere info"
+  "textNoteDescription": "Note",
+  "textNote": "Dataene viser alle kendte juridiske former for landbrug",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
+  "textCountryClick": "Klik for mere information"
 }

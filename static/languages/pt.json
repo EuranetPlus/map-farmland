@@ -1,12 +1,12 @@
 {
-  "heading": "Onde estão as maiores explorações agrícolas da UE?",
-  "subheading": "Visão geral da proporção de explorações agrícolas com mais de 100 ha SAU na União Europeia em 2020",
-  "legend1": "Não há dados disponíveis",
-  "tooltip1": "do número total de explorações com SAU superior a 100 ha",
+  "heading": "Onde estão as maiores fazendas na UE?",
+  "subheading": "Panorama da proporção de explorações agrícolas com mais de 100 ha de SAU na União Europeia em 2020",
+  "legend1": "Nenhum dado disponível",
+  "tooltip1": "do número total de explorações agrícolas com SAU superior a 100 ha",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "Os dados retratam todas as formas jurídicas conhecidas de fazendas",
+  "textNote": "Os dados retratam todas as formas legais conhecidas de fazendas",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

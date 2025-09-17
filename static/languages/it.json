@@ -1,13 +1,13 @@
 {
-  "heading": "Dove sono le aziende agricole più grandi nell’UE?",
-  "subheading": "Panoramica della percentuale di aziende agricole con oltre 100 ettari di SAU nell'Unione europea nel 2020",
+  "heading": "Dove si trovano le aziende agricole più grandi nell'UE?",
+  "subheading": "Panoramica della percentuale di aziende agricole con oltre 100 ettari di SAU nell'Unione Europea nel 2020",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "del numero totale di aziende agricole con SAU superiore a 100 ha",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "I dati descrivono tutte le forme giuridiche conosciute delle aziende agricole",
+  "textNote": "I dati descrivono tutte le forme giuridiche note delle aziende agricole",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=it",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

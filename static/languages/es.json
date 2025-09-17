@@ -1,13 +1,13 @@
 {
-  "heading": "¿Dónde están las explotaciones agrícolas más grandes de la UE?",
-  "subheading": "Resumen de la proporción de explotaciones con más de 100 ha SAU en la Unión Europea en 2020",
-  "legend1": "Datos no disponibles",
-  "tooltip1": "del número total de explotaciones con SAU superiores a 100 ha",
+  "heading": "¿Dónde están las granjas más grandes de la UE?",
+  "subheading": "Panorama de la proporción de explotaciones agrícolas con más de 100 ha de SAU en la Unión Europea en 2020",
+  "legend1": "No hay datos disponibles",
+  "tooltip1": "del número total de explotaciones con SAU mayor de 100 ha",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Los datos representan todas las formas legales conocidas de granjas.",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
+  "textNote": "Los datos representan todas las formas jurídicas conocidas de explotaciones agrícolas.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=es",
   "textCountryClick": "Haga clic para más información"
 }

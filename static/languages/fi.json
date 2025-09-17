@@ -1,13 +1,13 @@
 {
-  "heading": "Missä ovat EU:n suurimmat maatilat?",
-  "subheading": "Katsaus yli 100 hehtaarin KMM-tilojen osuuteen Euroopan unionissa vuonna 2020",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "yli 100 hehtaarin KMM-tilojen kokonaismäärästä",
+  "heading": "Missä sijaitsevat EU:n suurimmat maatilat?",
+  "subheading": "Yleiskatsaus yli 100 hehtaarin KMM:n tilojen osuudesta Euroopan unionissa vuonna 2020",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "yli 100 hehtaarin KMM:n omaavien tilojen kokonaismäärästä",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "Tiedot kuvaavat kaikki tunnetut maatilojen juridiset muodot",
+  "textNote": "Tiedot kuvaavat kaikkia tunnettuja maatilojen oikeudellisia muotoja",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=fi",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

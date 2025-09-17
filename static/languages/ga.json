@@ -1,13 +1,13 @@
 {
   "heading": "Cá bhfuil na feirmeacha is mó san AE?",
-  "subheading": "Forbhreathnú ar chomhréir na bhfeirmeacha a raibh os cionn 100 ha UAA acu san Aontas Eorpach in 2020",
+  "subheading": "Forbhreathnú ar chion na bhfeirmeacha a bhfuil os cionn 100 ha de thalamh úd acu san Aontas Eorpach in 2020",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de líon iomlán na bhfeirmeacha le UAA níos mó ná 100 heicteár",
+  "tooltip1": "de líon iomlán na bhfeirmeacha a bhfuil ÚLA níos mó ná 100 heicteár acu",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Léiríonn na sonraí gach foirm dhlíthiúil feirmeacha atá ar eolas",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=ga",
+  "textNote": "Léiríonn na sonraí gach cineál dlíthiúil feirme ar a bhfuil eolas againn",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Kur yra didžiausi ūkiai ES?",
-  "subheading": "Ūkių, turinčių virš 100 ha ŽŪN, proporcijos Europos Sąjungoje apžvalga 2020 m",
+  "subheading": "Ūkių, turinčių daugiau nei 100 ha ŽŪN, dalies Europos Sąjungoje apžvalga 2020 m.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "visų ūkių, turinčių didesnį nei 100 ha ŽŪN, skaičiaus",
+  "tooltip1": "bendro ūkių, kurių ŽŪN didesnis nei 100 ha, skaičiaus",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Duomenys vaizduoja visas žinomas teisines ūkių formas",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Duomenyse pateikiamos visos žinomos teisinės ūkių formos.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

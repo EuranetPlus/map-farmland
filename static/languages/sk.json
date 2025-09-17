@@ -1,13 +1,13 @@
 {
   "heading": "Kde sú najväčšie farmy v EÚ?",
-  "subheading": "Prehľad podielu fariem s viac ako 100 ha VPP v Európskej únii v roku 2020",
+  "subheading": "Prehľad podielu fariem s viac ako 100 ha využívanej poľnohospodárskej pôdy v Európskej únii v roku 2020",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "z celkového počtu fariem s VPP nad 100 ha",
+  "tooltip1": "z celkového počtu fariem s VPA väčšou ako 100 ha",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
   "textNote": "Údaje zobrazujú všetky známe právne formy fariem",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=sk",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"
 }

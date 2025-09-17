@@ -1,12 +1,12 @@
 {
-  "heading": "Kus on ELi suurimad talud?",
-  "subheading": "Ülevaade üle 100 ha KAP-ga talude osakaalust Euroopa Liidus 2020. aastal",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "üle 100 ha KAA-ga talude koguarvust",
+  "heading": "Kus asuvad EL-i suurimad talud?",
+  "subheading": "Ülevaade üle 100 hektari suuruse põllumajandusmaaga põllumajandusettevõtete osakaalust Euroopa Liidus 2020. aastal",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "üle 100 ha KPP-ga põllumajandusettevõtete koguarvust",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Andmed kujutavad kõiki teadaolevaid talude juriidilisi vorme",
+  "textNoteDescription": "Märkus",
+  "textNote": "Andmed kajastavad kõiki teadaolevaid talude õiguslikke vorme",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

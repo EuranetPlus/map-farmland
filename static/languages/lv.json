@@ -1,13 +1,13 @@
 {
-  "heading": "Kur ir lielākās saimniecības ES?",
-  "subheading": "Pārskats par to saimniecību īpatsvaru Eiropas Savienībā, kurām ir virs 100 ha LIZ 2020. gadā",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "no kopējā to saimniecību skaita, kuru LIZ ir lielāka par 100 ha",
+  "heading": "Kur atrodas lielākās saimniecības ES?",
+  "subheading": "Pārskats par saimniecību īpatsvaru Eiropas Savienībā ar vairāk nekā 100 ha LIZ 2020. gadā",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "no kopējā saimniecību skaita, kuru LIZ pārsniedz 100 ha",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Dati atspoguļo visas zināmās saimniecību juridiskās formas",
+  "textNote": "Dati attēlo visas zināmās saimniecību juridiskās formas.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

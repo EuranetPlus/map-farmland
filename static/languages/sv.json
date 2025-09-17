@@ -1,13 +1,13 @@
 {
   "heading": "Var finns de största gårdarna i EU?",
-  "subheading": "Översikt över andelen gårdar med över 100 ha UAA i Europeiska unionen 2020",
-  "legend1": "Ingen data tillgänglig",
-  "tooltip1": "av det totala antalet gårdar med UAA större än 100 ha",
+  "subheading": "Översikt över andelen gårdar med över 100 hektar UJA i Europeiska unionen år 2020",
+  "legend1": "Inga data tillgängliga",
+  "tooltip1": "av det totala antalet gårdar med UAA större än 100 hektar",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
   "textNote": "Uppgifterna visar alla kända juridiska former av gårdar",
-  "textDataAccess": "Få åtkomst till data",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

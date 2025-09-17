@@ -1,12 +1,12 @@
 {
-  "heading": "Où se trouvent les plus grandes fermes de l’UE ?",
+  "heading": "Où se trouvent les plus grandes exploitations agricoles de l’UE ?",
   "subheading": "Aperçu de la proportion d'exploitations agricoles de plus de 100 ha de SAU dans l'Union européenne en 2020",
-  "legend1": "Pas de données disponibles",
-  "tooltip1": "du nombre total d’exploitations dont la SAU est supérieure à 100 ha",
+  "legend1": "Aucune donnée disponible",
+  "tooltip1": "du nombre total d'exploitations agricoles dont la SAU est supérieure à 100 ha",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Les données décrivent toutes les formes juridiques connues des exploitations agricoles",
+  "textNote": "Les données décrivent toutes les formes juridiques connues d'exploitations agricoles",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations"

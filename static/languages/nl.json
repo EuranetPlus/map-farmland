@@ -1,12 +1,12 @@
 {
-  "heading": "Waar zijn de grootste boerderijen in de EU?",
-  "subheading": "Overzicht van het aandeel landbouwbedrijven met meer dan 100 ha OCG in de Europese Unie in 2020",
+  "heading": "Waar bevinden zich de grootste boerderijen in de EU?",
+  "subheading": "Overzicht van het aandeel landbouwbedrijven met meer dan 100 ha oppervlakte in de Europese Unie in 2020",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "van het totale aantal bedrijven met OCG groter dan 100 ha",
+  "tooltip1": "van het totale aantal bedrijven met een UAA groter dan 100 ha",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "De gegevens geven alle bekende rechtsvormen van boerderijen weer",
+  "textNote": "De gegevens tonen alle bekende rechtsvormen van boerderijen",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
   "textCountryClick": "Klik voor meer informatie"

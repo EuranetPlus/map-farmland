@@ -1,13 +1,13 @@
 {
-  "heading": "Gdzie znajdują się największe gospodarstwa w UE?",
-  "subheading": "Zestawienie udziału gospodarstw o powierzchni powyżej 100 ha UR w Unii Europejskiej w roku 2020",
+  "heading": "Gdzie znajdują się największe gospodarstwa rolne w UE?",
+  "subheading": "Przegląd udziału gospodarstw rolnych o powierzchni powyżej 100 ha użytków rolnych w Unii Europejskiej w 2020 r.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "ogólnej liczby gospodarstw o powierzchni użytków rolnych większych niż 100 ha",
+  "tooltip1": "ogólnej liczby gospodarstw o powierzchni użytków rolnych powyżej 100 ha",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
   "textNote": "Dane przedstawiają wszystkie znane formy prawne gospodarstw rolnych",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

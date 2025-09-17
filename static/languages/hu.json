@@ -1,13 +1,13 @@
 {
-  "heading": "Hol vannak az EU legnagyobb gazdaságai?",
-  "subheading": "Áttekintés a 100 ha feletti MHT-vel rendelkező gazdaságok arányáról az Európai Unióban 2020-ban",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "a 100 ha-nál nagyobb MHT-vel rendelkező gazdaságok teljes számából",
+  "heading": "Hol vannak a legnagyobb gazdaságok az EU-ban?",
+  "subheading": "Az Európai Unióban 100 hektárnál nagyobb mezőgazdasági területtel rendelkező gazdaságok arányának áttekintése 2020-ban",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "a 100 hektárnál nagyobb MHT-val rendelkező gazdaságok teljes számából",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "Az adatok a gazdaságok összes ismert jogi formáját ábrázolják",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Az adatok a gazdaságok összes ismert jogi formáját ábrázolják.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

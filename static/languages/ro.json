@@ -1,13 +1,13 @@
 {
   "heading": "Unde sunt cele mai mari ferme din UE?",
-  "subheading": "Prezentare generală a ponderii fermelor cu peste 100 ha SAU în Uniunea Europeană în 2020",
-  "legend1": "Nici o informatie disponibila",
+  "subheading": "Prezentare generală a proporției fermelor cu peste 100 ha SAU în Uniunea Europeană în 2020",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "din numărul total de ferme cu SAU mai mare de 100 ha",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
-  "textNote": "Datele descriu toate formele juridice cunoscute ale fermelor",
+  "textNoteDescription": "Nota",
+  "textNote": "Datele prezintă toate formele juridice cunoscute ale fermelor",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=ro",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

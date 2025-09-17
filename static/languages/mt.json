@@ -1,13 +1,13 @@
 {
-  "heading": "Fejn huma l-akbar farms fl-UE?",
-  "subheading": "Ħarsa ġenerali lejn il-proporzjon ta' farms b'aktar minn 100 ettaru UAA fl-Unjoni Ewropea fl-2020",
+  "heading": "Fejn jinsabu l-akbar irziezet fl-UE?",
+  "subheading": "Ħarsa ġenerali lejn il-proporzjon ta' azjendi agrikoli b'aktar minn 100 ettaru ŻAU fl-Unjoni Ewropea fl-2020",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "tan-numru totali ta' rziezet b'UAA akbar minn 100 ettaru",
+  "tooltip1": "tan-numru totali ta' azjendi b'ŻAU akbar minn 100 ettaru",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Id-dejta turi l-forom legali magħrufa kollha tal-farms",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Id-dejta turi l-forom legali kollha magħrufa ta' razzetti",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg__custom_9968909/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }
